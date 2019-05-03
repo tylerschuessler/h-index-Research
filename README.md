@@ -41,6 +41,7 @@ All of the code is implemented in [Python3](https://www.python.org/download/rele
 - copy
 - progressbar
 - sklearn
+- math
 
 If the package is not in the Anaconda base it can be installed using [conda install](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/).
 
