@@ -1,4 +1,4 @@
-# h-index-Research
+# h-index Research
 ## Overview
 Check out the code for both simulated citation networks via Price's model and arXiv citation networks. 
 These notebooks also contain the analysis comparing our theoretical results to both simmulated and real h-indices.
@@ -16,4 +16,32 @@ created. The visualization functions are spread throughout the notebook, usually
 to be visualized. 
 
 ### arXiv Citation Networks and Comparison with Theory
-[PaperScape_Data.ipynb](PaperScape_Data.ipynb) is the notebook where all the arXiv citation networks are created and analyzed 
+[PaperScape_Data.ipynb](PaperScape_Data.ipynb) is the notebook where all the arXiv citation networks are created and analyzed. The order of the code is: 
+
+1. collect all the information regarding individual papers
+
+2. collect all of the unique authors' information
+
+3. build citation networks
+
+4. fit Price's model parameters from the citation networks
+
+5. compare the real citation networks to the theory
+
+Again the visualization functions are spread through the code, primarily within their relevant sections.
+
+## Dependencies 
+All of the code is implemented in [Python3](https://www.python.org/download/releases/3.0/). If you are just starting out with python I would recommend [Anaconda](https://www.anaconda.com/distribution/) as a package manager. The packages I use are:
+
+- matplotlib
+- numpy
+- scipy
+- pandas
+- csv
+- copy
+- progressbar
+
+If the package is not in the Anaconda base it can be installed using [conda install](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/).
+
+## Acknowledgements
+It is likely if you are looking at this github you were refered here by Professor Manuel Lladser, regardless I would like to thank him for all the help, encouragement and insight on this research.
