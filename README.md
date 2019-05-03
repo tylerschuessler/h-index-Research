@@ -49,4 +49,5 @@ It is likely if you are looking at this github you were refered here by Professo
 
 ## Contact
 Tyler Schuessler
+
 Contact: tysc7535@colorado.edu or schuesslertyler@gmail.com or ask Professor Manuel Lladser for my current email address
