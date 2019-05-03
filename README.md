@@ -46,3 +46,7 @@ If the package is not in the Anaconda base it can be installed using [conda inst
 
 ## Acknowledgements
 It is likely if you are looking at this github you were refered here by Professor Manuel Lladser, regardless I would like to thank him for all the help, encouragement and insight on this research.
+
+## Contact
+Tyler Schuessler
+Contact: tysc7535@colorado.edu or schuesslertyler@gmail.com or ask Professor Manuel Lladser for my current email address
